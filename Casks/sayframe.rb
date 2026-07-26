@@ -12,7 +12,8 @@ cask "sayframe" do
     strategy :sparkle
   end
 
-  depends_on macos: ">= :sonoma"
+  # Cask symbol form means "this version or later" (macOS 14+).
+  depends_on macos: :sonoma
 
   app "Sayframe.app"
 
