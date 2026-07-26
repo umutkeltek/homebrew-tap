@@ -5,13 +5,13 @@ Homebrew tap for [Sayframe](https://sayframe.app) — on-device voice to text fo
 ## Install
 
 ```sh
-brew install --cask umutkeltek/tap/sayframe
+brew install --cask sayframeapp/tap/sayframe
 ```
 
 Or tap first, then install:
 
 ```sh
-brew tap umutkeltek/tap
+brew tap sayframeapp/tap
 brew install --cask sayframe
 ```
 
