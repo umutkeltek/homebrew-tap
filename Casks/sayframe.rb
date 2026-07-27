@@ -1,6 +1,6 @@
 cask "sayframe" do
-  version "1.0.0"
-  sha256 "f97b19f424b8a9a9c991b2b43fd5d7799121372330aa3c143c2a1b09d0bb8c84"
+  version "1.0.1"
+  sha256 "85684eeabc5c5f74552c9fbcc74f103d0b63555d5011794850a5d35055222019"
 
   url "https://dl.sayframe.app/Sayframe-#{version}.dmg"
   name "Sayframe"
